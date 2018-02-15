@@ -1,0 +1,1 @@
+This projects prints statices of a given char array.
